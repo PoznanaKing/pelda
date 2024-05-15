@@ -1,0 +1,78 @@
+#element-one {
+    width: 100px;
+    height: 100px;
+    background-color: darkcyan;
+  }
+  
+  #element-two {
+    width: 100px;
+    height: 100px;
+    background-color: firebrick;
+    
+    
+    
+  }
+  
+  #element-three {
+    background-color: darkolivegreen;
+  }
+  
+  #element-four {
+    background-color: chocolate;
+  }
+  
+  .container {
+    width: 400px;
+  }
+  
+  .shape {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 20px;
+    border-radius: 3px;
+    
+  }
+  
+  .text {
+    display: table;
+    margin: auto;
+    font-size: 50px;
+    font-family: sans-serif;
+    line-height: 100px;
+  }
+  
+  .parent-table {
+      display: table;
+      text-align: center;
+  }
+  
+  .child-table {
+      font-size: 30px;
+      display: table-cell;
+      vertical-align: middle;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .w-95 {
+    width: 95px;
+  }
+  
+  .w-100 {
+    width: 100px;
+  }
+  
+  .box1style {
+    border-radius: 50%;
+  }
+  .box2style{
+    border-style: solid;
+    border-color: black;
+    border-radius: 2px;
+  }
+  .inputmezo{
+    background-color: rgb(24, 24, 24);
+  }
